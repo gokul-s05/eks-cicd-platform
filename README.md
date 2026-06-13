@@ -46,7 +46,7 @@ Code Push → GitHub Actions → Docker Build → ECR Push → EKS Rolling Deplo
 
 ## Architecture
 
-<img width="1220" height="1080" alt="eks_cicd_architecture" src="https://github.com/user-attachments/assets/e419d188-cc3c-46e9-a81f-fa208c65c9e4" />
+<img width="763" height="623" alt="image" src="https://github.com/user-attachments/assets/048fe183-b009-44db-a325-b5eb46aa3c21" />
 
 
 
