@@ -48,9 +48,7 @@ Code Push → GitHub Actions → Docker Build → ECR Push → EKS Rolling Deplo
 
 <img width="2720" height="2480" alt="eks_cicd_architecture" src="https://github.com/user-attachments/assets/e419d188-cc3c-46e9-a81f-fa208c65c9e4" />
 
-```
 
----
 
 ## Tech Stack
 
@@ -67,7 +65,6 @@ Code Push → GitHub Actions → Docker Build → ECR Push → EKS Rolling Deplo
 | OS               | RHEL 10               | Workstation / build machine        |
 | Region           | ap-south-1 (Mumbai)   | AWS deployment region              |
 
----
 
 ## Project Structure
 
@@ -93,7 +90,6 @@ eks-cicd-platform/
         └── deploy.yml     # Full CI/CD pipeline definition
 ```
 
----
 
 ## Prerequisites
 
@@ -108,7 +104,7 @@ eks-cicd-platform/
 | Helm      | v4.1.1       |
 | Node.js   | v22.22.0     |
 
----
+
 
 ## Getting Started
 
