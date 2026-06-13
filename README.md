@@ -46,7 +46,7 @@ Code Push → GitHub Actions → Docker Build → ECR Push → EKS Rolling Deplo
 
 ## Architecture
 
-<img width="672" height="568" alt="image" src="https://github.com/user-attachments/assets/e1fc146b-7f44-44a1-9a17-c8f072bcef7e" />
+<img width="1072" height="568" alt="image" src="https://github.com/user-attachments/assets/e1fc146b-7f44-44a1-9a17-c8f072bcef7e" />
 
 
 ## Tech Stack
